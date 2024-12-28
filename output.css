@@ -1619,6 +1619,10 @@ details.collapse summary::-webkit-details-marker {
   gap: 0.75rem;
 }
 
+.scroll-smooth {
+  scroll-behavior: smooth;
+}
+
 .rounded-lg {
   border-radius: 0.5rem;
 }
@@ -1651,6 +1655,10 @@ details.collapse summary::-webkit-details-marker {
   padding: 5rem;
 }
 
+.p-96 {
+  padding: 24rem;
+}
+
 .px-1 {
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -1669,6 +1677,11 @@ details.collapse summary::-webkit-details-marker {
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .pl-20 {
